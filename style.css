@@ -1,0 +1,122 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.carousel-item
+{
+	height: 100vh;
+}
+.img-box
+{
+	width: 550px;
+	position: relative;
+}
+.pic-one
+{
+	width: 300px;
+    height: 400px;
+}
+.pic-two
+{
+	width: 138px;
+    height: 167px;
+    position: absolute;
+	left: 261px;
+	top: 4px;
+}
+.pic-two:hover
+{
+	width: 150px;
+	height: 180px;
+	align-items: center;
+}
+.pic-three:hover
+{
+	width: 160px;
+	height: 180px;
+	align-items: center;
+}
+.pic-for:hover
+{
+	width: 150px;
+	height: 180px;
+	align-items: center;
+}
+.pic-five:hover
+{
+	width: 150px;
+	height: 180px;
+	align-items: center;
+}
+.pic-for
+{
+	width: 138px;
+    height: 167px;
+    position: absolute;
+    left: -101px;
+    top: 207px;
+}
+.pic-five
+{
+	width: 138px;
+    height: 167px;
+    position: absolute;
+    left: -101px;
+    top: 207px;
+}
+.slide-one
+{
+	background: #fec6c7;
+}
+.carousel-item .row
+{
+	margin: 12% 0;
+}
+.carousel-item h1
+{
+	margin-top: 40px;
+	font-weight: bold;
+	color: #714270;
+    margin-left: 70px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}
+.carousel-item p
+{
+	margin: 30px 0 50px;
+	font-size: 16px;
+	color: #714270; 
+	margin-left: 70px;
+	font-family:Consolas, 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', Monaco, 'Courier New', 'monospace';
+}
+.carousel-item button
+{
+	padding: 8px 20px;
+	background: #9B2C2E;
+	border: 0px;
+	outline: none;
+	border-radius: 20px;
+	color: #fff;
+	margin-left: 70px;
+}
+#btb2
+{
+	padding: 8px 20px;
+	background: #af8a05;
+	border: 0px;
+	outline: none;
+	border-radius: 20px;
+	color: #fff;
+	margin-left: 70px;
+}
+.slide-two
+{
+	background: #f2e6b4;
+}
+.pic-1
+{
+	width: 300px;
+    height: 400px;
+}
